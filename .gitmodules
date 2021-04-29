@@ -1,0 +1,3 @@
+[submodule "willowdb-proto"]
+	path = willowdb-proto
+	url = git@github.com:SnugglyCoder/willowdb-proto.git
